@@ -1,0 +1,2973 @@
+{
+    "Slovenia": {
+        "Visibility": "1",
+        "Administrative divisions of Slovenia": "https://en.wikipedia.org/wiki/Administrative_divisions_of_Slovenia",
+        "Divisions": {
+            "Level_2": {
+                "List": {
+                    "City_Municipality_of_Celje": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arm_of_Celje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "City_Municipality_of_Celje.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Celje",
+                        "webUrl": "http://www.celje.si/",
+                        "wikiName": "City_Municipality_of_Celje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/City_Municipality_of_Celje"
+                    },
+                    "City_Municipality_of_Koper": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coa_Koper.grb.svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "City_Municipality_of_Koper.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Koper",
+                        "webUrl": "http://www.koper.si/",
+                        "wikiName": "City_Municipality_of_Koper",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/City_Municipality_of_Koper"
+                    },
+                    "City_Municipality_of_Kranj": {
+                        "iconSize": "50",
+                        "name": "Kranj",
+                        "webUrl": "https://www.kranj.si/",
+                        "wikiName": "City_Municipality_of_Kranj",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/City_Municipality_of_Kranj",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Coat_of_arms_of_Kranj_%28with_white_outline%29.svg",
+                            "iconsize": "50",
+                            "file_name": "City_Municipality_of_Kranj.svg"
+                        }
+                    },
+                    "City_Municipality_of_Ljubljana": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Blason_ville_si_Ljubljana_(Slov%C3%A9nie).svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "City_Municipality_of_Ljubljana.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Ljubljana",
+                        "webUrl": "https://www.ljubljana.si/",
+                        "wikiName": "City_Municipality_of_Ljubljana",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/City_Municipality_of_Ljubljana"
+                    },
+                    "City_Municipality_of_Maribor": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Maribor_(2020).svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "City_Municipality_of_Maribor.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Maribor",
+                        "webUrl": "http://www.maribor.si/",
+                        "wikiName": "City_Municipality_of_Maribor",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/City_Municipality_of_Maribor"
+                    },
+                    "City_Municipality_of_Murska_Sobota": {
+                        "iconSize": "50",
+                        "name": "Murska Sobota",
+                        "webUrl": "https://www.murska-sobota.si",
+                        "wikiName": "City_Municipality_of_Murska_Sobota",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/City_Municipality_of_Murska_Sobota",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/MS_seal.svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "City_Municipality_of_Murska_Sobota.svg"
+                        }
+                    },
+                    "City_Municipality_of_Nova_Gorica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Nova_Gorica.svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "City_Municipality_of_Nova_Gorica.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Nova Gorica",
+                        "webUrl": "http://www.nova-gorica.si/",
+                        "wikiName": "City_Municipality_of_Nova_Gorica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/City_Municipality_of_Nova_Gorica"
+                    },
+                    "City_Municipality_of_Novo_Mesto": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Coat_of_arms_of_Novo_Mesto.svg",
+                            "iconsize": "50",
+                            "file_name": "City_Municipality_of_Novo_Mesto.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Novo Mesto",
+                        "webUrl": "https://www.novomesto.si/",
+                        "wikiName": "City_Municipality_of_Novo_Mesto",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/City_Municipality_of_Novo_Mesto"
+                    },
+                    "City_Municipality_of_Ptuj": {
+                        "iconSize": "50",
+                        "name": "Ptuj",
+                        "webUrl": "http://www.ptuj.si/",
+                        "wikiName": "City_Municipality_of_Ptuj",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/City_Municipality_of_Ptuj",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/CoA_of_Ptuj.svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "City_Municipality_of_Ptuj.svg"
+                        }
+                    },
+                    "City_Municipality_of_Slovenj_Gradec": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Slovenj_Gradec_grb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "City_Municipality_of_Slovenj_Gradec.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Slovenj Gradec",
+                        "webUrl": "http://www.slovenjgradec.si/",
+                        "wikiName": "City_Municipality_of_Slovenj_Gradec",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/City_Municipality_of_Slovenj_Gradec"
+                    },
+                    "City_Municipality_of_Velenje": {
+                        "iconSize": "50",
+                        "name": "Velenje",
+                        "webUrl": "https://www.velenje.si/",
+                        "wikiName": "City_Municipality_of_Velenje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/City_Municipality_of_Velenje",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Velenje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "City_Municipality_of_Velenje.svg"
+                        }
+                    },
+                    "Municipality_of_Ajdovščina": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_municipality_of_Ajdov%C5%A1%C4%8Dina.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ajdovščina.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Ajdovščina",
+                        "webUrl": "http://www.ajdovscina.si/",
+                        "wikiName": "Municipality_of_Ajdov%C5%A1%C4%8Dina",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ajdov%C5%A1%C4%8Dina"
+                    },
+                    "Municipality_of_Ankaran": {
+                        "iconSize": "50",
+                        "name": "Ankaran",
+                        "webUrl": "http://www.obcina-ankaran.si/",
+                        "wikiName": "Municipality_of_Ankaran",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ankaran",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ankaran_Grb_-_Coat_of_Arms.svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ankaran.svg"
+                        }
+                    },
+                    "Municipality_of_Apače": {
+                        "iconSize": "50",
+                        "name": "Apače",
+                        "webUrl": "http://www.obcina-apace.si/",
+                        "wikiName": "Municipality_of_Apa%C4%8De",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Apa%C4%8De",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Apa%C4%8De.svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Apače.svg"
+                        }
+                    },
+                    "Municipality_of_Beltinci": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Beltinci.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Beltinci.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Beltinci",
+                        "webUrl": "https://www.beltinci.si/",
+                        "wikiName": "Municipality_of_Beltinci",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Beltinci"
+                    },
+                    "Municipality_of_Benedikt": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Benedikt.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Benedikt.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Benedikt",
+                        "webUrl": "http://www.benedikt.si/",
+                        "wikiName": "Municipality_of_Benedikt",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Benedikt"
+                    },
+                    "Municipality_of_Bistrica_ob_Sotli": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Bistrica_ob_Sotli.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Bistrica_ob_Sotli.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Bistrica ob Sotli",
+                        "webUrl": "http://www.bistricaobsotli.si",
+                        "wikiName": "Municipality_of_Bistrica_ob_Sotli",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Bistrica_ob_Sotli"
+                    },
+                    "Municipality_of_Bled": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Bled.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Bled.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Bled",
+                        "webUrl": "https://www.e-bled.si/",
+                        "wikiName": "Municipality_of_Bled",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Bled"
+                    },
+                    "Municipality_of_Bloke": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Bloke.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Bloke.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Bloke",
+                        "webUrl": "http://www.bloke.si/",
+                        "wikiName": "Municipality_of_Bloke",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Bloke"
+                    },
+                    "Municipality_of_Bohinj": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Bohinj.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Bohinj.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Bohinj",
+                        "webUrl": "http://www.bohinj.si/",
+                        "wikiName": "Municipality_of_Bohinj",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Bohinj"
+                    },
+                    "Municipality_of_Borovnica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_Arms_of_Borovnica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Borovnica.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Borovnica",
+                        "webUrl": "https://www.borovnica.si/",
+                        "wikiName": "Municipality_of_Borovnica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Borovnica"
+                    },
+                    "Municipality_of_Bovec": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Bovec.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Bovec.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Bovec",
+                        "webUrl": "http://obcina.bovec.si/",
+                        "wikiName": "Municipality_of_Bovec",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Bovec"
+                    },
+                    "Municipality_of_Braslovče": {
+                        "iconSize": "50",
+                        "name": "Braslovče",
+                        "webUrl": "https://www.braslovce.si/",
+                        "wikiName": "Municipality_of_Braslov%C4%8De",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Braslov%C4%8De",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Braslovce.svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Braslovče.svg"
+                        }
+                    },
+                    "Municipality_of_Brda": {
+                        "iconSize": "50",
+                        "name": "Brda",
+                        "webUrl": "http://www.obcina-brda.si/it/",
+                        "wikiName": "Municipality_of_Brda",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Brda",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Brda.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Brda.png"
+                        }
+                    },
+                    "Municipality_of_Brezovica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Brezovica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Brezovica.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Brezovica",
+                        "webUrl": "http://www.brezovica.si/",
+                        "wikiName": "Municipality_of_Brezovica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Brezovica"
+                    },
+                    "Municipality_of_Brežice": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/BreziceGRB.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Brežice.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Brežice",
+                        "webUrl": "http://www.brezice.si/",
+                        "wikiName": "Municipality_of_Bre%C5%BEice",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Bre%C5%BEice"
+                    },
+                    "Municipality_of_Cankova": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Cankova.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Cankova.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Cankova",
+                        "webUrl": "https://www.cankova.si/",
+                        "wikiName": "Municipality_of_Cankova",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Cankova"
+                    },
+                    "Municipality_of_Cerklje_na_Gorenjskem": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_Arm_of_Cerklje_na_Gorenjskem.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Cerklje_na_Gorenjskem.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Cerklje na Gorenjskem",
+                        "webUrl": "http://www.cerklje.si/",
+                        "wikiName": "Municipality_of_Cerklje_na_Gorenjskem",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Cerklje_na_Gorenjskem"
+                    },
+                    "Municipality_of_Cerknica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Cerknica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Cerknica.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Cerknica",
+                        "webUrl": "https://www.cerknica.si/",
+                        "wikiName": "Municipality_of_Cerknica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Cerknica"
+                    },
+                    "Municipality_of_Cerkno": {
+                        "iconSize": "50",
+                        "name": "Cerkno",
+                        "wikiName": "Municipality_of_Cerkno",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Cerkno",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Cerkno.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Cerkno.png"
+                        }
+                    },
+                    "Municipality_of_Cerkvenjak": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Cerkvenjak.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Cerkvenjak.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Cerkvenjak",
+                        "webUrl": "https://www.cerkvenjak.si/",
+                        "wikiName": "Municipality_of_Cerkvenjak",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Cerkvenjak"
+                    },
+                    "Municipality_of_Cirkulane": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Cirkulane.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Cirkulane.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Cirkulane",
+                        "webUrl": "https://www.cirkulane.si/",
+                        "wikiName": "Municipality_of_Cirkulane",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Cirkulane"
+                    },
+                    "Municipality_of_Destrnik": {
+                        "iconSize": "50",
+                        "name": "Destrnik",
+                        "webUrl": "http://www.destrnik.si/",
+                        "wikiName": "Municipality_of_Destrnik",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Destrnik",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Destrnik.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Destrnik.png"
+                        }
+                    },
+                    "Municipality_of_Divača": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Wappen_Divaca.jpg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Divača.jpeg"
+                        },
+                        "iconSize": "50",
+                        "name": "Divača",
+                        "wikiName": "Municipality_of_Diva%C4%8Da",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Diva%C4%8Da"
+                    },
+                    "Municipality_of_Dobje": {
+                        "iconSize": "50",
+                        "name": "Dobje",
+                        "webUrl": "http://www.dobje.si/",
+                        "wikiName": "Municipality_of_Dobje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Dobje",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/DobjeGrb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Dobje.png"
+                        }
+                    },
+                    "Municipality_of_Dobrepolje": {
+                        "iconSize": "50",
+                        "name": "Dobrepolje",
+                        "webUrl": "http://www.dobrepolje.si/",
+                        "wikiName": "Municipality_of_Dobrepolje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Dobrepolje",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Dobrepolje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Dobrepolje.png"
+                        }
+                    },
+                    "Municipality_of_Dobrna": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Dobrna.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Dobrna.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Dobrna",
+                        "webUrl": "http://www.dobrna.si/",
+                        "wikiName": "Municipality_of_Dobrna",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Dobrna"
+                    },
+                    "Municipality_of_Dobrova–Polhov_Gradec": {
+                        "iconSize": "50",
+                        "name": "Dobrova–Polhov Gradec",
+                        "webUrl": "http://www.dobrova-polhovgradec.si/",
+                        "wikiName": "Municipality_of_Dobrova%E2%80%93Polhov_Gradec",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Dobrova%E2%80%93Polhov_Gradec",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Dobrova-Polhov_Gradec.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Dobrova–Polhov_Gradec.png"
+                        }
+                    },
+                    "Municipality_of_Dobrovnik": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Dobrovnik.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Dobrovnik.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Dobrovnik",
+                        "webUrl": "https://www.dobrovnik.si/",
+                        "wikiName": "Municipality_of_Dobrovnik",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Dobrovnik"
+                    },
+                    "Municipality_of_Dol_pri_Ljubljani": {
+                        "iconSize": "50",
+                        "name": "Dol pri Ljubljani",
+                        "webUrl": "http://www.dol.si/",
+                        "wikiName": "Municipality_of_Dol_pri_Ljubljani",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Dol_pri_Ljubljani",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Dol_pri_Ljubljani.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Dol_pri_Ljubljani.png"
+                        }
+                    },
+                    "Municipality_of_Dolenjske_Toplice": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Dolenjske_Toplice.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Dolenjske_Toplice.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Dolenjske Toplice",
+                        "webUrl": "http://www.dolenjske-toplice.si/",
+                        "wikiName": "Municipality_of_Dolenjske_Toplice",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Dolenjske_Toplice"
+                    },
+                    "Municipality_of_Domžale": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Dom%C5%BEale.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Domžale.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Domžale",
+                        "webUrl": "http://www.domzale.si",
+                        "wikiName": "Municipality_of_Dom%C5%BEale",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Dom%C5%BEale"
+                    },
+                    "Municipality_of_Dornava": {
+                        "iconSize": "50",
+                        "name": "Dornava",
+                        "webUrl": "http://www.dornava.si/",
+                        "wikiName": "Municipality_of_Dornava",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Dornava",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Dornava.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Dornava.png"
+                        }
+                    },
+                    "Municipality_of_Dravograd": {
+                        "iconSize": "50",
+                        "name": "Dravograd",
+                        "webUrl": "https://www.dravograd.si/",
+                        "wikiName": "Municipality_of_Dravograd",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Dravograd",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Dravograd.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Dravograd.png"
+                        }
+                    },
+                    "Municipality_of_Duplek": {
+                        "iconSize": "50",
+                        "name": "Duplek",
+                        "webUrl": "http://www.duplek.si/",
+                        "wikiName": "Municipality_of_Duplek",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Duplek",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Duplek.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Duplek.svg"
+                        }
+                    },
+                    "Municipality_of_Gorenja_Vas–Poljane": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_Arm_of_Gorenja_vas-Poljane.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Gorenja_Vas–Poljane.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Gorenja Vas–Poljane",
+                        "webUrl": "http://www.obcina-gvp.si/",
+                        "wikiName": "Municipality_of_Gorenja_Vas%E2%80%93Poljane",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Gorenja_Vas%E2%80%93Poljane"
+                    },
+                    "Municipality_of_Gorišnica": {
+                        "iconSize": "50",
+                        "name": "Gorišnica",
+                        "webUrl": "http://www.gorisnica.eu/",
+                        "wikiName": "Municipality_of_Gori%C5%A1nica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Gori%C5%A1nica",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Gori%C5%A1nica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Gorišnica.png"
+                        }
+                    },
+                    "Municipality_of_Gorje": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_Arm_of_Gorje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Gorje.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Gorje",
+                        "webUrl": "http://www.gorje.si/",
+                        "wikiName": "Municipality_of_Gorje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Gorje"
+                    },
+                    "Municipality_of_Gornja_Radgona": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Gornja_radgona_grb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Gornja_Radgona.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Gornja Radgona",
+                        "webUrl": "https://www.gor-radgona.si/",
+                        "wikiName": "Municipality_of_Gornja_Radgona",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Gornja_Radgona"
+                    },
+                    "Municipality_of_Gornji_Grad": {
+                        "iconSize": "50",
+                        "name": "Gornji Grad",
+                        "webUrl": "http://www.gornji-grad.si/",
+                        "wikiName": "Municipality_of_Gornji_Grad",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Gornji_Grad",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Gornji_Grad.svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Gornji_Grad.svg"
+                        }
+                    },
+                    "Municipality_of_Gornji_Petrovci": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Gornji_Petrovci.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Gornji_Petrovci.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Gornji Petrovci",
+                        "webUrl": "https://www.gornji-petrovci.si/",
+                        "wikiName": "Municipality_of_Gornji_Petrovci",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Gornji_Petrovci"
+                    },
+                    "Municipality_of_Grad": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Ob%C4%8Dina_Grad.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Grad.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Grad",
+                        "webUrl": "http://www.obcina-grad.si/",
+                        "wikiName": "Municipality_of_Grad",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Grad"
+                    },
+                    "Municipality_of_Grosuplje": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Grosuplje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Grosuplje.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Grosuplje",
+                        "webUrl": "https://www.grosuplje.si/",
+                        "wikiName": "Municipality_of_Grosuplje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Grosuplje"
+                    },
+                    "Municipality_of_Hajdina": {
+                        "iconSize": "50",
+                        "name": "Hajdina",
+                        "webUrl": "http://www.hajdina.si/",
+                        "wikiName": "Municipality_of_Hajdina",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Hajdina",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Hajdina.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Hajdina.png"
+                        }
+                    },
+                    "Municipality_of_Hodoš": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Hodo%C5%A1_grb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Hodoš.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Hodoš",
+                        "webUrl": "http://www.hodos.si/",
+                        "wikiName": "Municipality_of_Hodo%C5%A1",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Hodo%C5%A1"
+                    },
+                    "Municipality_of_Horjul": {
+                        "iconSize": "50",
+                        "name": "Horjul",
+                        "webUrl": "http://www.horjul.si/",
+                        "wikiName": "Municipality_of_Horjul",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Horjul",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Horjul.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Horjul.png"
+                        }
+                    },
+                    "Municipality_of_Hoče-Slivnica": {
+                        "iconSize": "50",
+                        "name": "Hoče-Slivnica",
+                        "webUrl": "http://www.hoce-slivnica.si/",
+                        "wikiName": "Municipality_of_Ho%C4%8De-Slivnica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ho%C4%8De-Slivnica",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Ho%C4%8De-Slivnica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Hoče-Slivnica.png"
+                        }
+                    },
+                    "Municipality_of_Hrastnik": {
+                        "iconSize": "50",
+                        "name": "Hrastnik",
+                        "webUrl": "http://www.hrastnik.si/",
+                        "wikiName": "Municipality_of_Hrastnik",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Hrastnik",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arm_of_Hrastnik.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Hrastnik.png"
+                        }
+                    },
+                    "Municipality_of_Hrpelje-Kozina": {
+                        "iconSize": "50",
+                        "name": "Hrpelje-Kozina",
+                        "webUrl": "http://www.hrpelje-kozina.si/",
+                        "wikiName": "Municipality_of_Hrpelje-Kozina",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Hrpelje-Kozina",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_Arms_of_Hrpelje-Kozina.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Hrpelje-Kozina.png"
+                        }
+                    },
+                    "Municipality_of_Idrija": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Idrija.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Idrija.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Idrija",
+                        "webUrl": "https://www.idrija.si/",
+                        "wikiName": "Municipality_of_Idrija",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Idrija"
+                    },
+                    "Municipality_of_Ig": {
+                        "iconSize": "50",
+                        "name": "Ig",
+                        "webUrl": "http://www.obcina-ig.si/",
+                        "wikiName": "Municipality_of_Ig",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ig",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ig.Grb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ig.png"
+                        }
+                    },
+                    "Municipality_of_Ilirska_Bistrica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Ilirska_Bistrica.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ilirska_Bistrica.gif"
+                        },
+                        "iconSize": "50",
+                        "name": "Ilirska Bistrica",
+                        "webUrl": "https://www.ilirska-bistrica.si/",
+                        "wikiName": "Municipality_of_Ilirska_Bistrica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ilirska_Bistrica"
+                    },
+                    "Municipality_of_Ivančna_Gorica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Ivan%C4%8Dna_Gorica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ivančna_Gorica.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Ivančna Gorica",
+                        "webUrl": "http://www.ivancna-gorica.si/",
+                        "wikiName": "Municipality_of_Ivan%C4%8Dna_Gorica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ivan%C4%8Dna_Gorica"
+                    },
+                    "Municipality_of_Izola": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arm_Izola.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Izola.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Izola",
+                        "webUrl": "http://izola.si/",
+                        "wikiName": "Municipality_of_Izola",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Izola"
+                    },
+                    "Municipality_of_Jesenice": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Jesenice.svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Jesenice.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Jesenice",
+                        "webUrl": "http://www.jesenice.si/",
+                        "wikiName": "Municipality_of_Jesenice",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Jesenice"
+                    },
+                    "Municipality_of_Jezersko": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Jezersko.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Jezersko.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Jezersko",
+                        "webUrl": "http://www.jezersko.si/",
+                        "wikiName": "Municipality_of_Jezersko",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Jezersko"
+                    },
+                    "Municipality_of_Juršinci": {
+                        "iconSize": "50",
+                        "name": "Juršinci",
+                        "webUrl": "http://www.jursinci.si/",
+                        "wikiName": "Municipality_of_Jur%C5%A1inci",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Jur%C5%A1inci",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Jur%C5%A1inci.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Juršinci.png"
+                        }
+                    },
+                    "Municipality_of_Kamnik": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Grb_Kamnika.svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Kamnik.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Kamnik",
+                        "webUrl": "http://www.kamnik.si/",
+                        "wikiName": "Municipality_of_Kamnik",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kamnik"
+                    },
+                    "Municipality_of_Kanal_ob_Soči": {
+                        "iconSize": "50",
+                        "name": "Kanal ob Soči",
+                        "webUrl": "https://www.obcina-kanal.si/",
+                        "wikiName": "Municipality_of_Kanal_ob_So%C4%8Di",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kanal_ob_So%C4%8Di",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Kanal_ob_So%C4%8Di.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Kanal_ob_Soči.png"
+                        }
+                    },
+                    "Municipality_of_Kidričevo": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Kidri%C4%8Devo.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Kidričevo.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Kidričevo",
+                        "webUrl": "http://www.kidricevo.si/",
+                        "wikiName": "Municipality_of_Kidri%C4%8Devo",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kidri%C4%8Devo"
+                    },
+                    "Municipality_of_Kobarid": {
+                        "iconSize": "50",
+                        "name": "Kobarid",
+                        "wikiName": "Municipality_of_Kobarid",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kobarid",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Kobarid.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Kobarid.png"
+                        }
+                    },
+                    "Municipality_of_Kobilje": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Kobilje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Kobilje.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Kobilje",
+                        "webUrl": "http://www.kobilje.si/",
+                        "wikiName": "Municipality_of_Kobilje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kobilje"
+                    },
+                    "Municipality_of_Komen": {
+                        "iconSize": "50",
+                        "name": "Komen",
+                        "wikiName": "Municipality_of_Komen",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Komen",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_Arms_of_Komen.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Komen.gif"
+                        }
+                    },
+                    "Municipality_of_Komenda": {
+                        "iconSize": "50",
+                        "name": "Komenda",
+                        "webUrl": "http://www.komenda.si/",
+                        "wikiName": "Municipality_of_Komenda",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Komenda",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Komenda.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Komenda.png"
+                        }
+                    },
+                    "Municipality_of_Kostanjevica_na_Krki": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arm_of_Kostanjevica_na_Krki.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Kostanjevica_na_Krki.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Kostanjevica na Krki",
+                        "webUrl": "http://www.kostanjevica.si/",
+                        "wikiName": "Municipality_of_Kostanjevica_na_Krki",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kostanjevica_na_Krki"
+                    },
+                    "Municipality_of_Kostel": {
+                        "iconSize": "50",
+                        "name": "Kostel",
+                        "webUrl": "http://www.kostel.si",
+                        "wikiName": "Municipality_of_Kostel",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kostel",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Kostel.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Kostel.png"
+                        }
+                    },
+                    "Municipality_of_Kozje": {
+                        "iconSize": "50",
+                        "name": "Kozje",
+                        "webUrl": "http://www.obcina-kozje.si/",
+                        "wikiName": "Municipality_of_Kozje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kozje",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Kozje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Kozje.png"
+                        }
+                    },
+                    "Municipality_of_Kočevje": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Ko%C4%8Devje.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Kocevje.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Kočevje",
+                        "webUrl": "http://www.kocevje.si/",
+                        "wikiName": "Municipality_of_Ko%C4%8Devje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ko%C4%8Devje"
+                    },
+                    "Municipality_of_Kranjska_Gora": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Kranjska_Gora.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Kranjska_Gora.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Kranjska Gora",
+                        "webUrl": "http://www.kranjska-gora.si",
+                        "wikiName": "Municipality_of_Kranjska_Gora",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kranjska_Gora"
+                    },
+                    "Municipality_of_Križevci": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ob%C4%8Dina_Kri%C5%BEevci_grb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Križevci.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Križevci",
+                        "webUrl": "http://www.obcina-krizevci.si/",
+                        "wikiName": "Municipality_of_Kri%C5%BEevci",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kri%C5%BEevci"
+                    },
+                    "Municipality_of_Krško": {
+                        "iconSize": "50",
+                        "name": "Krško",
+                        "webUrl": "https://www.krsko.si/",
+                        "wikiName": "Municipality_of_Kr%C5%A1ko",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kr%C5%A1ko",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Kr%C5%A1ko.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Krško.png"
+                        }
+                    },
+                    "Municipality_of_Kungota": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Kungota.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Kungota.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Kungota",
+                        "webUrl": "http://www.kungota.si/",
+                        "wikiName": "Municipality_of_Kungota",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kungota"
+                    },
+                    "Municipality_of_Kuzma": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Kuzma.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Kuzma.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Kuzma",
+                        "webUrl": "http://www.obcina-kuzma.si/",
+                        "wikiName": "Municipality_of_Kuzma",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Kuzma"
+                    },
+                    "Municipality_of_Laško": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_La%C5%A1ko.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Lasko.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Laško",
+                        "webUrl": "http://www.lasko.si/",
+                        "wikiName": "Municipality_of_La%C5%A1ko",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_La%C5%A1ko"
+                    },
+                    "Municipality_of_Lenart": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Lenart.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Lenart.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Lenart",
+                        "webUrl": "https://www.lenart.si/",
+                        "wikiName": "Municipality_of_Lenart",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Lenart"
+                    },
+                    "Municipality_of_Lendava": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Lendava.grb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Lendava.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Lendava",
+                        "webUrl": "https://www.lendava.si/",
+                        "wikiName": "Municipality_of_Lendava",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Lendava"
+                    },
+                    "Municipality_of_Litija": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Litija.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Litija.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Litija",
+                        "webUrl": "http://www.litija.net/",
+                        "wikiName": "Municipality_of_Litija",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Litija"
+                    },
+                    "Municipality_of_Ljubno": {
+                        "iconSize": "50",
+                        "name": "Ljubno",
+                        "webUrl": "http://www.ljubno.si/",
+                        "wikiName": "Municipality_of_Ljubno",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ljubno",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ljubno.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ljubno.svg"
+                        }
+                    },
+                    "Municipality_of_Ljutomer": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ljutomer_grb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ljutomer.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Ljutomer",
+                        "webUrl": "http://www.ljutomer.si/",
+                        "wikiName": "Municipality_of_Ljutomer",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ljutomer"
+                    },
+                    "Municipality_of_Log-Dragomer": {
+                        "iconSize": "50",
+                        "name": "Log-Dragomer",
+                        "webUrl": "http://www.log-dragomer.si/",
+                        "wikiName": "Municipality_of_Log-Dragomer",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Log-Dragomer",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Log-Dragomer.wappen.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Log-Dragomer.png"
+                        }
+                    },
+                    "Municipality_of_Logatec": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Logatec.grb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Logatec.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Logatec",
+                        "webUrl": "http://logatec.si/vsebina/",
+                        "wikiName": "Municipality_of_Logatec",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Logatec"
+                    },
+                    "Municipality_of_Lovrenc_na_Pohorju": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Lovrenc_na_Pohorju.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Lovrenc_na_Pohorju.gif"
+                        },
+                        "iconSize": "50",
+                        "name": "Lovrenc na Pohorju",
+                        "webUrl": "http://www.lovrenc.si/",
+                        "wikiName": "Municipality_of_Lovrenc_na_Pohorju",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Lovrenc_na_Pohorju"
+                    },
+                    "Municipality_of_Loška_Dolina": {
+                        "iconSize": "50",
+                        "name": "Loška Dolina",
+                        "webUrl": "http://www.loskadolina.si/",
+                        "wikiName": "Municipality_of_Lo%C5%A1ka_Dolina",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Lo%C5%A1ka_Dolina",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Lo%C5%A1ka_Dolina.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Loška_Dolina.gif"
+                        }
+                    },
+                    "Municipality_of_Loški_Potok": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Lo%C5%A1ki_Potok.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Loški_Potok.gif"
+                        },
+                        "iconSize": "50",
+                        "name": "Loški Potok",
+                        "webUrl": "http://www.loski-potok.si/",
+                        "wikiName": "Municipality_of_Lo%C5%A1ki_Potok",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Lo%C5%A1ki_Potok"
+                    },
+                    "Municipality_of_Lukovica": {
+                        "iconSize": "50",
+                        "name": "Lukovica",
+                        "webUrl": "http://www.lukovica.si/",
+                        "wikiName": "Municipality_of_Lukovica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Lukovica",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Lukovica.grb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Lukovica.png"
+                        }
+                    },
+                    "Municipality_of_Luče": {
+                        "iconSize": "50",
+                        "name": "Luče",
+                        "webUrl": "http://www.luce.si/",
+                        "wikiName": "Municipality_of_Lu%C4%8De",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Lu%C4%8De",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Luce_grb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Luče.png"
+                        }
+                    },
+                    "Municipality_of_Majšperk": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Maj%C5%A1perk.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Majšperk.gif"
+                        },
+                        "iconSize": "50",
+                        "name": "Majšperk",
+                        "webUrl": "http://www.majsperk.si/",
+                        "wikiName": "Municipality_of_Maj%C5%A1perk",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Maj%C5%A1perk"
+                    },
+                    "Municipality_of_Makole": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Makole.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Makole.gif"
+                        },
+                        "iconSize": "50",
+                        "name": "Makole",
+                        "webUrl": "http://www.obcina-makole.si/",
+                        "wikiName": "Municipality_of_Makole",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Makole"
+                    },
+                    "Municipality_of_Markovci": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Markovci.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Markovci.gif"
+                        },
+                        "iconSize": "50",
+                        "name": "Markovci",
+                        "webUrl": "http://www.markovci.si/",
+                        "wikiName": "Municipality_of_Markovci",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Markovci"
+                    },
+                    "Municipality_of_Medvode": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Medvode.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Medvode.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Medvode",
+                        "webUrl": "http://www.medvode.si/",
+                        "wikiName": "Municipality_of_Medvode",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Medvode"
+                    },
+                    "Municipality_of_Mengeš": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Menge%C5%A1.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Mengeš.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Mengeš",
+                        "webUrl": "http://www.menges.si/",
+                        "wikiName": "Municipality_of_Menge%C5%A1",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Menge%C5%A1"
+                    },
+                    "Municipality_of_Metlika": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Metlika.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Metlika.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Metlika",
+                        "webUrl": "https://www.metlika.si/",
+                        "wikiName": "Municipality_of_Metlika",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Metlika"
+                    },
+                    "Municipality_of_Mežica": {
+                        "iconSize": "50",
+                        "name": "Mežica",
+                        "webUrl": "https://www.mezica.si/",
+                        "wikiName": "Municipality_of_Me%C5%BEica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Me%C5%BEica",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Me%C5%BEica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Mežica.png"
+                        }
+                    },
+                    "Municipality_of_Miklavž_na_Dravskem_Polju": {
+                        "iconSize": "50",
+                        "name": "Miklavž na Dravskem Polju",
+                        "webUrl": "http://www.miklavz.si/",
+                        "wikiName": "Municipality_of_Miklav%C5%BE_na_Dravskem_Polju",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Miklav%C5%BE_na_Dravskem_Polju",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Miklav%C5%BE_na_Dravskem_polju.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Miklavž_na_Dravskem_Polju.png"
+                        }
+                    },
+                    "Municipality_of_Miren-Kostanjevica": {
+                        "iconSize": "50",
+                        "name": "Miren-Kostanjevica",
+                        "webUrl": "http://www.miren-kostanjevica.si/",
+                        "wikiName": "Municipality_of_Miren-Kostanjevica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Miren-Kostanjevica",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Miren-Kostanjevica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Miren-Kostanjevica.png"
+                        }
+                    },
+                    "Municipality_of_Mirna": {
+                        "iconSize": "50",
+                        "name": "Mirna",
+                        "webUrl": "https://www.mirna.si/",
+                        "wikiName": "Municipality_of_Mirna",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Mirna",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Mirnagrb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Mirna.png"
+                        }
+                    },
+                    "Municipality_of_Mirna_Peč": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Mirna_Pe%C4%8D.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Mirna_Pec.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Mirna Peč",
+                        "webUrl": "http://www.mirnapec.si/",
+                        "wikiName": "Municipality_of_Mirna_Pe%C4%8D",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Mirna_Pe%C4%8D"
+                    },
+                    "Municipality_of_Mislinja": {
+                        "iconSize": "50",
+                        "name": "Mislinja",
+                        "webUrl": "https://www.mislinja.si/",
+                        "wikiName": "Municipality_of_Mislinja",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Mislinja",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Mislinja.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Mislinja.png"
+                        }
+                    },
+                    "Municipality_of_Mokronog-Trebelno": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Grb_Ob%C4%8Dine_Mokronog-Trebelno.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Mokronog-Trebelno.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Mokronog-Trebelno",
+                        "webUrl": "http://www.mokronog-trebelno.si/",
+                        "wikiName": "Municipality_of_Mokronog-Trebelno",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Mokronog-Trebelno"
+                    },
+                    "Municipality_of_Moravske_Toplice": {
+                        "iconSize": "50",
+                        "name": "Moravske Toplice",
+                        "webUrl": "http://www.moravske-toplice.si/",
+                        "wikiName": "Municipality_of_Moravske_Toplice",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Moravske_Toplice",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Moravske_Toplice_grb.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Moravske_Toplice.gif"
+                        }
+                    },
+                    "Municipality_of_Moravče": {
+                        "iconSize": "50",
+                        "name": "Moravče",
+                        "webUrl": "http://www.moravce.si/",
+                        "wikiName": "Municipality_of_Morav%C4%8De",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Morav%C4%8De",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Morav%C4%8De.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Moravče.png"
+                        }
+                    },
+                    "Municipality_of_Mozirje": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Mozirje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Mozirje.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Mozirje",
+                        "webUrl": "http://www.mozirje.si/",
+                        "wikiName": "Municipality_of_Mozirje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Mozirje"
+                    },
+                    "Municipality_of_Muta": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Grb.Muta.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Muta.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Muta",
+                        "webUrl": "http://www.muta.si/",
+                        "wikiName": "Municipality_of_Muta",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Muta"
+                    },
+                    "Municipality_of_Naklo": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arm_of_Naklo.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Naklo.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Naklo",
+                        "webUrl": "http://www.naklo.si/",
+                        "wikiName": "Municipality_of_Naklo",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Naklo"
+                    },
+                    "Municipality_of_Nazarje": {
+                        "iconSize": "50",
+                        "name": "Nazarje",
+                        "webUrl": "http://www.nazarje.si/",
+                        "wikiName": "Municipality_of_Nazarje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Nazarje",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Nazarje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Nazarje.png"
+                        }
+                    },
+                    "Municipality_of_Odranci": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Odranci.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Odranci.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Odranci",
+                        "webUrl": "https://www.odranci.si/",
+                        "wikiName": "Municipality_of_Odranci",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Odranci"
+                    },
+                    "Municipality_of_Oplotnica": {
+                        "iconSize": "50",
+                        "name": "Oplotnica",
+                        "webUrl": "http://www.oplotnica.si/",
+                        "wikiName": "Municipality_of_Oplotnica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Oplotnica",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Oplotnica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Oplotnica.png"
+                        }
+                    },
+                    "Municipality_of_Ormož": {
+                        "iconSize": "50",
+                        "name": "Ormož",
+                        "webUrl": "http://www.ormoz.si/",
+                        "wikiName": "Municipality_of_Ormo%C5%BE",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ormo%C5%BE",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ormo%C5%BE.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ormož.png"
+                        }
+                    },
+                    "Municipality_of_Osilnica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Osilnica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Osilnica.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Osilnica",
+                        "webUrl": "http://www.osilnica.si/",
+                        "wikiName": "Municipality_of_Osilnica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Osilnica"
+                    },
+                    "Municipality_of_Pesnica": {
+                        "iconSize": "50",
+                        "name": "Pesnica",
+                        "webUrl": "http://www.pesnica.si/",
+                        "wikiName": "Municipality_of_Pesnica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Pesnica",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Pesnica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Pesnica.png"
+                        }
+                    },
+                    "Municipality_of_Piran": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Wappen_piran.svg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Piran.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Piran",
+                        "wikiName": "Municipality_of_Piran",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Piran"
+                    },
+                    "Municipality_of_Pivka": {
+                        "iconSize": "50",
+                        "name": "Pivka",
+                        "webUrl": "http://www.pivka.si/",
+                        "wikiName": "Municipality_of_Pivka",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Pivka",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Pivka.Grb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Pivka.png"
+                        }
+                    },
+                    "Municipality_of_Podlehnik": {
+                        "iconSize": "50",
+                        "name": "Podlehnik",
+                        "webUrl": "http://www.poodlehnik.si/",
+                        "wikiName": "Municipality_of_Podlehnik",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Podlehnik",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Podlehnik.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Podlehnik.png"
+                        }
+                    },
+                    "Municipality_of_Podvelka": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Podvelka.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Podvelka.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Podvelka",
+                        "webUrl": "http://www.podvelka.si/",
+                        "wikiName": "Municipality_of_Podvelka",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Podvelka"
+                    },
+                    "Municipality_of_Podčetrtek": {
+                        "iconSize": "50",
+                        "name": "Podčetrtek",
+                        "webUrl": "http://www.podcetrtek.si/",
+                        "wikiName": "Municipality_of_Pod%C4%8Detrtek",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Pod%C4%8Detrtek",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Pod%C4%8Detrtek.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Podčetrtek.gif"
+                        }
+                    },
+                    "Municipality_of_Poljčane": {
+                        "iconSize": "50",
+                        "name": "Poljčane",
+                        "webUrl": "http://www.poljcane.si/",
+                        "wikiName": "Municipality_of_Polj%C4%8Dane",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Polj%C4%8Dane",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Polj%C4%8Dane.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Poljčane.png"
+                        }
+                    },
+                    "Municipality_of_Polzela": {
+                        "iconSize": "50",
+                        "name": "Polzela",
+                        "webUrl": "http://www.polzela.si/",
+                        "wikiName": "Municipality_of_Polzela",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Polzela",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Polzela.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Polzela.png"
+                        }
+                    },
+                    "Municipality_of_Postojna": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Postojna.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Postojna.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Postojna",
+                        "wikiName": "Municipality_of_Postojna",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Postojna"
+                    },
+                    "Municipality_of_Prebold": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Prebold.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Prebold.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Prebold",
+                        "webUrl": "http://www.prebold.si/",
+                        "wikiName": "Municipality_of_Prebold",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Prebold"
+                    },
+                    "Municipality_of_Preddvor": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arm_of_Preddvor.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Preddvor.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Preddvor",
+                        "webUrl": "http://www.preddvor.si/",
+                        "wikiName": "Municipality_of_Preddvor",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Preddvor"
+                    },
+                    "Municipality_of_Prevalje": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Prevalje.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Prevalje.gif"
+                        },
+                        "iconSize": "50",
+                        "name": "Prevalje",
+                        "webUrl": "http://www.prevalje.si/",
+                        "wikiName": "Municipality_of_Prevalje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Prevalje"
+                    },
+                    "Municipality_of_Puconci": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Puconci.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Puconci.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Puconci",
+                        "webUrl": "https://www.puconci.si/",
+                        "wikiName": "Municipality_of_Puconci",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Puconci"
+                    },
+                    "Municipality_of_Radenci": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Radenci.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Radenci.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Radenci",
+                        "webUrl": "http://www.radenci.si/",
+                        "wikiName": "Municipality_of_Radenci",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Radenci"
+                    },
+                    "Municipality_of_Radeče": {
+                        "iconSize": "50",
+                        "name": "Radeče",
+                        "webUrl": "http://www.radece.si/",
+                        "wikiName": "Municipality_of_Rade%C4%8De",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Rade%C4%8De",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Wappen_Rade%C4%8De.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Radeče.png"
+                        }
+                    },
+                    "Municipality_of_Radlje_ob_Dravi": {
+                        "iconSize": "50",
+                        "name": "Radlje ob Dravi",
+                        "webUrl": "http://www.obcina-radlje.si/",
+                        "wikiName": "Municipality_of_Radlje_ob_Dravi",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Radlje_ob_Dravi",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Radlje_ob_Dravi.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Radlje_ob_Dravi.gif"
+                        }
+                    },
+                    "Municipality_of_Radovljica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Radovljica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Radovljica.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Radovljica",
+                        "webUrl": "http://www.radovljica.si/",
+                        "wikiName": "Municipality_of_Radovljica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Radovljica"
+                    },
+                    "Municipality_of_Ravne_na_Koroškem": {
+                        "iconSize": "50",
+                        "name": "Ravne na Koroškem",
+                        "webUrl": "http://www.ravne.si",
+                        "wikiName": "Municipality_of_Ravne_na_Koro%C5%A1kem",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ravne_na_Koro%C5%A1kem",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ravne_na_Koro%C5%A1kem.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ravne_na_Koroškem.png"
+                        }
+                    },
+                    "Municipality_of_Razkrižje": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Razkri%C5%BEje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Razkrižje.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Razkrižje",
+                        "webUrl": "http://www.razkrizje.si/",
+                        "wikiName": "Municipality_of_Razkri%C5%BEje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Razkri%C5%BEje"
+                    },
+                    "Municipality_of_Rače-Fram": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Ra%C4%8De-Fram.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Rače-Fram.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Rače-Fram",
+                        "webUrl": "http://www.race-fram.si/",
+                        "wikiName": "Municipality_of_Ra%C4%8De-Fram",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ra%C4%8De-Fram"
+                    },
+                    "Municipality_of_Renče–Vogrsko": {
+                        "iconSize": "50",
+                        "name": "Renče–Vogrsko",
+                        "webUrl": "http://www.rence-vogrsko.si/",
+                        "wikiName": "Municipality_of_Ren%C4%8De%E2%80%93Vogrsko",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ren%C4%8De%E2%80%93Vogrsko",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ren%C4%8De-Vogrsko.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Renče–Vogrsko.png"
+                        }
+                    },
+                    "Municipality_of_Rečica_ob_Savinji": {
+                        "iconSize": "50",
+                        "name": "Rečica ob Savinji",
+                        "webUrl": "https://www.obcina-recica.si/",
+                        "wikiName": "Municipality_of_Re%C4%8Dica_ob_Savinji",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Re%C4%8Dica_ob_Savinji",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Re%C4%8Dica_ob_Savinji.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Rečica_ob_Savinji.png"
+                        }
+                    },
+                    "Municipality_of_Ribnica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Grb_ob%C4%8Dine_Ribnica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ribnica.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Ribnica",
+                        "webUrl": "http://www.ribnica.si/",
+                        "wikiName": "Municipality_of_Ribnica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ribnica"
+                    },
+                    "Municipality_of_Ribnica_na_Pohorju": {
+                        "iconSize": "50",
+                        "name": "Ribnica na Pohorju",
+                        "webUrl": "http://www.ribnicanapohorju.si/",
+                        "wikiName": "Municipality_of_Ribnica_na_Pohorju",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ribnica_na_Pohorju",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ribnica_na_Pohorju.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ribnica_na_Pohorju.png"
+                        }
+                    },
+                    "Municipality_of_Rogatec": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Rogatec.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Rogatec.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Rogatec",
+                        "webUrl": "http://www.rogatec.net/",
+                        "wikiName": "Municipality_of_Rogatec",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Rogatec"
+                    },
+                    "Municipality_of_Rogaška_Slatina": {
+                        "iconSize": "50",
+                        "name": "Rogaška Slatina",
+                        "webUrl": "http://www.rogaska-slatina.si/",
+                        "wikiName": "Municipality_of_Roga%C5%A1ka_Slatina",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Roga%C5%A1ka_Slatina",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Roga%C5%A1ka_Slatina.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Rogaška_Slatina.png"
+                        }
+                    },
+                    "Municipality_of_Rogašovci": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Roga%C5%A1ovci.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Rogašovci.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Rogašovci",
+                        "webUrl": "http://www.obcina-rogasovci.si/",
+                        "wikiName": "Municipality_of_Roga%C5%A1ovci",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Roga%C5%A1ovci"
+                    },
+                    "Municipality_of_Ruše": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ru%C5%A1e.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ruše.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Ruše",
+                        "webUrl": "https://ruse.si/",
+                        "wikiName": "Municipality_of_Ru%C5%A1e",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ru%C5%A1e"
+                    },
+                    "Municipality_of_Selnica_ob_Dravi": {
+                        "iconSize": "50",
+                        "name": "Selnica ob Dravi",
+                        "webUrl": "http://www.selnica.si/",
+                        "wikiName": "Municipality_of_Selnica_ob_Dravi",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Selnica_ob_Dravi",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Selnica_ob_Dravi.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Selnica_ob_Dravi.png"
+                        }
+                    },
+                    "Municipality_of_Semič": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Semi%C4%8D.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Semič.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Semič",
+                        "webUrl": "http://www.semic.si/",
+                        "wikiName": "Municipality_of_Semi%C4%8D",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Semi%C4%8D"
+                    },
+                    "Municipality_of_Sevnica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Grb_logotip_obcina_sevnica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sevnica.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Sevnica",
+                        "webUrl": "https://www.obcina-sevnica.si/",
+                        "wikiName": "Municipality_of_Sevnica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Sevnica"
+                    },
+                    "Municipality_of_Sežana": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_Arms_of_Sezana.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sežana.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Sežana",
+                        "webUrl": "http://www.sezana.si/",
+                        "wikiName": "Municipality_of_Se%C5%BEana",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Se%C5%BEana"
+                    },
+                    "Municipality_of_Slovenska_Bistrica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Slovenska_Bistrica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Slovenska_Bistrica.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Slovenska Bistrica",
+                        "webUrl": "https://www.slovenska-bistrica.si/",
+                        "wikiName": "Municipality_of_Slovenska_Bistrica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Slovenska_Bistrica"
+                    },
+                    "Municipality_of_Slovenske_Konjice": {
+                        "iconSize": "50",
+                        "name": "Slovenske Konjice",
+                        "webUrl": "https://www.slovenskekonjice.si/",
+                        "wikiName": "Municipality_of_Slovenske_Konjice",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Slovenske_Konjice",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Slovenske_Konjice_grb.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Slovenske_Konjice.svg"
+                        }
+                    },
+                    "Municipality_of_Sodražica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Sodra%C5%BEica-grb-novi.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sodrazica.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Sodražica",
+                        "webUrl": "http://www.sodrazica.si/",
+                        "wikiName": "Municipality_of_Sodra%C5%BEica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Sodra%C5%BEica"
+                    },
+                    "Municipality_of_Solčava": {
+                        "iconSize": "50",
+                        "name": "Solčava",
+                        "webUrl": "https://www.solcava.si/",
+                        "wikiName": "Municipality_of_Sol%C4%8Dava",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Sol%C4%8Dava",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Sol%C4%8Dava.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Solčava.png"
+                        }
+                    },
+                    "Municipality_of_Središče_ob_Dravi": {
+                        "iconSize": "50",
+                        "name": "Središče ob Dravi",
+                        "webUrl": "http://www.sredisce-ob-dravi.si/",
+                        "wikiName": "Municipality_of_Sredi%C5%A1%C4%8De_ob_Dravi",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Sredi%C5%A1%C4%8De_ob_Dravi",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Sredi%C5%A1%C4%8De_ob_Dravi.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Središče_ob_Dravi.png"
+                        }
+                    },
+                    "Municipality_of_Starše": {
+                        "iconSize": "50",
+                        "name": "Starše",
+                        "webUrl": "http://www.starse.si/",
+                        "wikiName": "Municipality_of_Star%C5%A1e",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Star%C5%A1e",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Star%C5%A1e.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Starše.png"
+                        }
+                    },
+                    "Municipality_of_Straža": {
+                        "iconSize": "50",
+                        "name": "Straža",
+                        "webUrl": "http://www.obcina-straza.si/",
+                        "wikiName": "Municipality_of_Stra%C5%BEa",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Stra%C5%BEa",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Stra%C5%BEa.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Straža.png"
+                        }
+                    },
+                    "Municipality_of_Sveta_Trojica_v_Slovenskih_Goricah": {
+                        "iconSize": "50",
+                        "name": "Sveta Trojica v Slovenskih Goricah",
+                        "webUrl": "http://www.sv-trojica.si/",
+                        "wikiName": "Municipality_of_Sveta_Trojica_v_Slovenskih_Goricah",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Sveta_Trojica_v_Slovenskih_Goricah",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Sveta_Trojica_v_Slovenskih_goricah.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sveta_Trojica_v_Slovenskih_Goricah.png"
+                        }
+                    },
+                    "Municipality_of_Sveti_Andraž_v_Slovenskih_Goricah": {
+                        "iconSize": "50",
+                        "name": "Sveti Andraž v Slovenskih Goricah",
+                        "webUrl": "http://www.sv-andraz.si/",
+                        "wikiName": "Municipality_of_Sveti_Andra%C5%BE_v_Slovenskih_Goricah",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Sveti_Andra%C5%BE_v_Slovenskih_Goricah",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Sveti_Andra%C5%BE_v_Slovenskih_goricah.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sveti_Andraž_v_Slovenskih_Goricah.png"
+                        }
+                    },
+                    "Municipality_of_Sveti_Jurij_ob_Ščavnici": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Sveti_Jurij.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sveti_Jurij_ob_Ščavnici.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Sveti Jurij ob Ščavnici",
+                        "webUrl": "http://www.sveti-jurij.si/",
+                        "wikiName": "Municipality_of_Sveti_Jurij_ob_%C5%A0%C4%8Davnici",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Sveti_Jurij_ob_%C5%A0%C4%8Davnici"
+                    },
+                    "Municipality_of_Sveti_Jurij_v_Slovenskih_Goricah": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Sveti_Jurij_v_Slovenskih_goricah_grb.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sveti_Jurij_v_Slovenskih_Goricah.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Sveti Jurij v Slovenskih Goricah",
+                        "webUrl": "http://www.obcinajurij.si/",
+                        "wikiName": "Municipality_of_Sveti_Jurij_v_Slovenskih_Goricah",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Sveti_Jurij_v_Slovenskih_Goricah"
+                    },
+                    "Municipality_of_Sveti_Tomaž": {
+                        "iconSize": "50",
+                        "name": "Sveti Tomaž",
+                        "webUrl": "http://www.sv-tomaz.si/",
+                        "wikiName": "Municipality_of_Sveti_Toma%C5%BE",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Sveti_Toma%C5%BE",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Sveti_Toma%C5%BE.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sveti_Tomaž.png"
+                        }
+                    },
+                    "Municipality_of_Tišina": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ti%C5%A1ina.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Tišina.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Tišina",
+                        "webUrl": "http://www.tisina.si/",
+                        "wikiName": "Municipality_of_Ti%C5%A1ina",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ti%C5%A1ina"
+                    },
+                    "Municipality_of_Tolmin": {
+                        "iconSize": "50",
+                        "name": "Tolmin",
+                        "webUrl": "http://www.tolmin.si/",
+                        "wikiName": "Municipality_of_Tolmin",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Tolmin",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-Tolmin.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Tolmin.gif"
+                        }
+                    },
+                    "Municipality_of_Trbovlje": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Trbovlje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Trbovlje.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Trbovlje",
+                        "webUrl": "http://www.trbovlje.si",
+                        "wikiName": "Municipality_of_Trbovlje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Trbovlje"
+                    },
+                    "Municipality_of_Trebnje": {
+                        "iconSize": "50",
+                        "name": "Trebnje",
+                        "webUrl": "https://www.trebnje.si/",
+                        "wikiName": "Municipality_of_Trebnje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Trebnje",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Trebnje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Trebnje.png"
+                        }
+                    },
+                    "Municipality_of_Trnovska_Vas": {
+                        "iconSize": "50",
+                        "name": "Trnovska Vas",
+                        "webUrl": "http://www.trnovska-vas.si/",
+                        "wikiName": "Municipality_of_Trnovska_Vas",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Trnovska_Vas",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Trnovska_vas.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Trnovska_Vas.png"
+                        }
+                    },
+                    "Municipality_of_Trzin": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Trzin.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Trzin.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Trzin",
+                        "webUrl": "http://trzin.si",
+                        "wikiName": "Municipality_of_Trzin",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Trzin"
+                    },
+                    "Municipality_of_Tržič": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Tr%C5%BEi%C4%8D.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Trzic.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Tržič",
+                        "webUrl": "http://www.trzic.si/",
+                        "wikiName": "Municipality_of_Tr%C5%BEi%C4%8D",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Tr%C5%BEi%C4%8D"
+                    },
+                    "Municipality_of_Turnišče": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Turni%C5%A1%C4%8De.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Turnišče.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Turnišče",
+                        "webUrl": "http://www.turnisce.si/",
+                        "wikiName": "Municipality_of_Turni%C5%A1%C4%8De",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Turni%C5%A1%C4%8De"
+                    },
+                    "Municipality_of_Velika_Polana": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Velika_Polana.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Velika_Polana.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Velika Polana",
+                        "webUrl": "http://www.velika-polana.si/",
+                        "wikiName": "Municipality_of_Velika_Polana",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Velika_Polana"
+                    },
+                    "Municipality_of_Velike_Lašče": {
+                        "iconSize": "50",
+                        "name": "Velike Lašče",
+                        "webUrl": "https://www.velike-lasce.si/",
+                        "wikiName": "Municipality_of_Velike_La%C5%A1%C4%8De",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Velike_La%C5%A1%C4%8De",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Velike_La%C5%A1%C4%8De.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Velike_Lašče.png"
+                        }
+                    },
+                    "Municipality_of_Veržej": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Ver%C5%BEej.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Verzej.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Veržej",
+                        "webUrl": "http://www.verzej.si/",
+                        "wikiName": "Municipality_of_Ver%C5%BEej",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Ver%C5%BEej"
+                    },
+                    "Municipality_of_Videm": {
+                        "iconSize": "50",
+                        "name": "Videm",
+                        "webUrl": "http://www.videm.si/",
+                        "wikiName": "Municipality_of_Videm",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Videm",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Videm.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Videm.png"
+                        }
+                    },
+                    "Municipality_of_Vipava": {
+                        "iconSize": "50",
+                        "name": "Vipava",
+                        "webUrl": "http://www.vipava.si/",
+                        "wikiName": "Municipality_of_Vipava",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Vipava",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Vipava.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Vipava.png"
+                        }
+                    },
+                    "Municipality_of_Vitanje": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Vitanje.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Vitanje.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Vitanje",
+                        "wikiName": "Municipality_of_Vitanje",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Vitanje"
+                    },
+                    "Municipality_of_Vojnik": {
+                        "iconSize": "50",
+                        "name": "Vojnik",
+                        "webUrl": "https://vojnik.si/",
+                        "wikiName": "Municipality_of_Vojnik",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Vojnik",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Grb.Vojnik.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Vojnik.png"
+                        }
+                    },
+                    "Municipality_of_Vransko": {
+                        "iconSize": "50",
+                        "name": "Vransko",
+                        "webUrl": "https://www.vransko.si/",
+                        "wikiName": "Municipality_of_Vransko",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Vransko",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Vransko.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Vransko.png"
+                        }
+                    },
+                    "Municipality_of_Vrhnika": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/ObcinaVrhnika.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Vrhnika.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Vrhnika",
+                        "webUrl": "http://www.vrhnika.si/",
+                        "wikiName": "Municipality_of_Vrhnika",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Vrhnika"
+                    },
+                    "Municipality_of_Zagorje_ob_Savi": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_Zagorje_ob_Savi.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Zagorje_ob_Savi.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Zagorje ob Savi",
+                        "webUrl": "http://www.zagorje.si/",
+                        "wikiName": "Municipality_of_Zagorje_ob_Savi",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Zagorje_ob_Savi"
+                    },
+                    "Municipality_of_Zavrč": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Zavr%C4%8D.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Zavrc.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Zavrč",
+                        "webUrl": "http://www.zavrc.si/",
+                        "wikiName": "Municipality_of_Zavr%C4%8D",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Zavr%C4%8D"
+                    },
+                    "Municipality_of_Zreče": {
+                        "iconSize": "50",
+                        "name": "Zreče",
+                        "webUrl": "http://www.zrece.si/",
+                        "wikiName": "Municipality_of_Zre%C4%8De",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Zre%C4%8De",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Zre%C4%8De.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Zreče.png"
+                        }
+                    },
+                    "Municipality_of_Črenšovci": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C4%8Cren%C5%A1ovci_CoA.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Črenšovci.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Črenšovci",
+                        "webUrl": "http://www.obcina-crensovci.si/",
+                        "wikiName": "Municipality_of_%C4%8Cren%C5%A1ovci",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C4%8Cren%C5%A1ovci"
+                    },
+                    "Municipality_of_Črna_na_Koroškem": {
+                        "iconSize": "50",
+                        "name": "Črna na Koroškem",
+                        "webUrl": "http://www.crna.si/",
+                        "wikiName": "Municipality_of_%C4%8Crna_na_Koro%C5%A1kem",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C4%8Crna_na_Koro%C5%A1kem",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C4%8Crna_na_Koro%C5%A1kem.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Črna_na_Koroškem.png"
+                        }
+                    },
+                    "Municipality_of_Črnomelj": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Pokon%C4%8Dni_znak.jpg&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Crnomelj.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Črnomelj",
+                        "webUrl": "http://www.crnomelj.si/",
+                        "wikiName": "Municipality_of_%C4%8Crnomelj",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C4%8Crnomelj"
+                    },
+                    "Municipality_of_Šalovci": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0alovci.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Šalovci.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Šalovci",
+                        "webUrl": "http://salovci.si/",
+                        "wikiName": "Municipality_of_%C5%A0alovci",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0alovci"
+                    },
+                    "Municipality_of_Šempeter-Vrtojba": {
+                        "iconSize": "50",
+                        "name": "Šempeter-Vrtojba",
+                        "webUrl": "http://www.sempeter-vrtojba.si/",
+                        "wikiName": "Municipality_of_%C5%A0empeter-Vrtojba",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0empeter-Vrtojba",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0empeter-Vrtojba.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Šempeter-Vrtojba.png"
+                        }
+                    },
+                    "Municipality_of_Šentilj": {
+                        "iconSize": "50",
+                        "name": "Šentilj",
+                        "webUrl": "http://www.sentilj.si/",
+                        "wikiName": "Municipality_of_%C5%A0entilj",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0entilj",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0entilj.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Šentilj.png"
+                        }
+                    },
+                    "Municipality_of_Šentjernej": {
+                        "iconSize": "50",
+                        "name": "Šentjernej",
+                        "webUrl": "http://www.sentjernej.si/",
+                        "wikiName": "Municipality_of_%C5%A0entjernej",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0entjernej",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0entjernej.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sentjernej.svg"
+                        }
+                    },
+                    "Municipality_of_Šentjur": {
+                        "iconSize": "50",
+                        "name": "Šentjur",
+                        "webUrl": "https://www.sentjur.si/",
+                        "wikiName": "Municipality_of_%C5%A0entjur",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0entjur",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0entjur_pri_Celju.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sentjur.png"
+                        }
+                    },
+                    "Municipality_of_Šentrupert": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Grb_ob%C4%8Dine_%C5%A0entrupert_coat_of_arms_of_%C5%A0entrupert.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sentrupert.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Šentrupert",
+                        "webUrl": "https://www.sentrupert.si/",
+                        "wikiName": "Municipality_of_%C5%A0entrupert",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0entrupert"
+                    },
+                    "Municipality_of_Šenčur": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_%C5%A0en%C4%8Dur.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Šenčur.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Šenčur",
+                        "webUrl": "http://www.sencur.si/",
+                        "wikiName": "Municipality_of_%C5%A0en%C4%8Dur",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0en%C4%8Dur"
+                    },
+                    "Municipality_of_Škocjan": {
+                        "iconSize": "50",
+                        "name": "Škocjan",
+                        "webUrl": "http://www.obcina-skocjan.si/",
+                        "wikiName": "Municipality_of_%C5%A0kocjan",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0kocjan",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0kocjan.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Skocjan.png"
+                        }
+                    },
+                    "Municipality_of_Škofja_Loka": {
+                        "iconSize": "50",
+                        "name": "Škofja Loka",
+                        "wikiName": "Municipality_of_%C5%A0kofja_Loka",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0kofja_Loka",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_%C5%A0kofja_Loka.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Škofja_Loka.png"
+                        }
+                    },
+                    "Municipality_of_Škofljica": {
+                        "iconSize": "50",
+                        "name": "Škofljica",
+                        "webUrl": "http://www.skofljica.si/",
+                        "wikiName": "Municipality_of_%C5%A0kofljica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0kofljica",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0kofljica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Škofljica.png"
+                        }
+                    },
+                    "Municipality_of_Šmarje_pri_Jelšah": {
+                        "iconSize": "50",
+                        "name": "Šmarje pri Jelšah",
+                        "webUrl": "https://smarje.si/",
+                        "wikiName": "Municipality_of_%C5%A0marje_pri_Jel%C5%A1ah",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0marje_pri_Jel%C5%A1ah",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0marje_pri_Jel%C5%A1ah.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Šmarje_pri_Jelšah.png"
+                        }
+                    },
+                    "Municipality_of_Šmarješke_Toplice": {
+                        "iconSize": "50",
+                        "name": "Šmarješke Toplice",
+                        "webUrl": "https://www.smarjeske-toplice.si",
+                        "wikiName": "Municipality_of_%C5%A0marje%C5%A1ke_Toplice",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0marje%C5%A1ke_Toplice",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0marje%C5%A1ke_Toplice.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Šmarješke_Toplice.png"
+                        }
+                    },
+                    "Municipality_of_Šmartno_ob_Paki": {
+                        "iconSize": "50",
+                        "name": "Šmartno ob Paki",
+                        "webUrl": "http://www.smartnoobpaki.si/",
+                        "wikiName": "Municipality_of_%C5%A0martno_ob_Paki",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0martno_ob_Paki",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0martno_ob_Paki.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Šmartno_ob_Paki.png"
+                        }
+                    },
+                    "Municipality_of_Šmartno_pri_Litiji": {
+                        "iconSize": "50",
+                        "name": "Šmartno pri Litiji",
+                        "webUrl": "https://smartno-litija.si/",
+                        "wikiName": "Municipality_of_%C5%A0martno_pri_Litiji",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0martno_pri_Litiji",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0martno_pri_Litiji.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Smartno_pri_Litiji.svg"
+                        }
+                    },
+                    "Municipality_of_Šoštanj": {
+                        "iconSize": "50",
+                        "name": "Šoštanj",
+                        "webUrl": "http://www.sostanj.si/",
+                        "wikiName": "Municipality_of_%C5%A0o%C5%A1tanj",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0o%C5%A1tanj",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0o%C5%A1tanj.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sostanj.svg"
+                        }
+                    },
+                    "Municipality_of_Štore": {
+                        "iconSize": "50",
+                        "name": "Štore",
+                        "webUrl": "http://www.store.si/",
+                        "wikiName": "Municipality_of_%C5%A0tore",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%A0tore",
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/%C5%A0tore.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Štore.png"
+                        }
+                    },
+                    "Municipality_of_Žalec": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ob%C4%8Dina_%C5%BDalec_grb.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Zalec.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Žalec",
+                        "webUrl": "http://www.zalec.si/",
+                        "wikiName": "Municipality_of_%C5%BDalec",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%BDalec"
+                    },
+                    "Municipality_of_Železniki": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_%C5%BDelezniki.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Zelezniki.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Železniki",
+                        "webUrl": "http://www.zelezniki.si/",
+                        "wikiName": "Municipality_of_%C5%BDelezniki",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%BDelezniki"
+                    },
+                    "Municipality_of_Žetale": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/COA-%C5%BDetale.gif&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Zetale.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Žetale",
+                        "webUrl": "http://www.zetale.si/",
+                        "wikiName": "Municipality_of_%C5%BDetale",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%BDetale"
+                    },
+                    "Municipality_of_Žiri": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arm_of_%C5%BDiri.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Ziri.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Žiri",
+                        "webUrl": "http://www.ziri.si/",
+                        "wikiName": "Municipality_of_%C5%BDiri",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%BDiri"
+                    },
+                    "Municipality_of_Žirovnica": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arm_of_%C5%BDirovnica.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Zirovnica.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Žirovnica",
+                        "webUrl": "http://www.zirovnica.si/",
+                        "wikiName": "Municipality_of_%C5%BDirovnica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%BDirovnica"
+                    },
+                    "Municipality_of_Žužemberk": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Coat_of_arms_of_%C5%BDu%C5%BEemberk.png&origin=*",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Zuzemberk.svg"
+                        },
+                        "iconSize": "50",
+                        "name": "Žužemberk",
+                        "webUrl": "https://www.zuzemberk.si/",
+                        "wikiName": "Municipality_of_%C5%BDu%C5%BEemberk",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_%C5%BDu%C5%BEemberk"
+                    },
+                    "Sveta_Ana_v_Slovenskih_Goricah": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://en.wikipedia.org/wiki/Municipality_of_Sveta_Ana?useskin=vector#/media/File:Sveta_Ana.png",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Sveta_Ana.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Sveta Ana v Slovenskih Goricah",
+                        "wikiName": "Sveta_Ana_v_Slovenskih_Goricah",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Sveta_Ana"
+                    },
+                    "Municipality_of_Tabor": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tabor.Grb.png",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Tabor.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Tabor",
+                        "wikiName": "Municipality_of_Tabor",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Tabor"
+                    },
+                    "Vodice": {
+                        "Properties": {
+                            "lat": 0,
+                            "lon": 0,
+                            "coatUrl": "https://en.wikipedia.org/wiki/Municipality_of_Vodice?useskin=vector#/media/File:Vodice.grb.sl.png",
+                            "iconsize": "50",
+                            "file_name": "Municipality_of_Vodice.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Vodice",
+                        "webUrl": "http://www.vodice.si/",
+                        "wikiName": "Municipality_of_Vodice",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Vodice"
+                    },
+                    "Vuzenica": {
+                        "Properties": {
+                            "coatUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Vuzenica.png&origin=*",
+                            "iconSize": "50",
+                            "lat": 46.6,
+                            "lon": 15.166666666667,
+                            "file_name": "Municipality_of_Vuzenica.png"
+                        },
+                        "iconSize": "50",
+                        "name": "Vuzenica",
+                        "webUrl": "http://www.vuzenica.si/",
+                        "wikiName": "Municipality_of_Vuzenica",
+                        "wikiUrl": "https://en.wikipedia.org/wiki/Municipality_of_Vuzenica"
+                    }
+                },
+                "name": "Municipalities of Slovenia",
+                "wikiLink": "https://en.wikipedia.org/wiki/Municipalities_of_Slovenia",
+                "wikiName": "Municipalities_of_Slovenia"
+            }
+        }
+    }
+}
